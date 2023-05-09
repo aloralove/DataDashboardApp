@@ -13,15 +13,15 @@ The dashboard is built using Angular for the frontend and Django for the backend
 - Backend API powered by Django for serving data and user management
 
 ## Installation and Setup
-Install Python3
-Creat Virtual Enviorment 
-  py -m venv project-name
-  project-name\Scripts\activate.bat
-Install Django
-  py -m pip install Django
-  py -m pip install colorama
+-Install Python3
+-Create Virtual Enviorment 
+--py -m venv project-name
+--project-name\Scripts\activate.bat
+-Install Django
+--py -m pip install Django
+--py -m pip install colorama
   
-Install Node.js and Angular CLI.
+-Install Node.js and Angular CLI.
 
 ### Prerequisites
 
