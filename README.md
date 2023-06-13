@@ -13,10 +13,23 @@ The dashboard is built using Angular for the frontend and Django for the backend
 - Backend API powered by Django for serving data and user management
 
 ## Installation and Setup
+I used VS Code. 
+<br></br>
+<br>BACKEND</br>
+- Install Python3
+- Create Virtual Enviorment 
+<br>`py -m venv project-name`</br>
+<br>`project-name\Scripts\activate.bat`</br>
+- Install Django
+<br>`py -m pip install Django`</br>
+<br>`py -m pip install colorama`</br>
+  
+<br>FRONTEND</br>
+- Install Node.js and Angular CLI.
 
 ### Prerequisites
 
-- Python 3.x with Django
+- Python 3 with Django
 - Node.js with Angular CLI
 - InfluxDB
 - Grafana
@@ -25,3 +38,4 @@ The dashboard is built using Angular for the frontend and Django for the backend
 ### Backend Setup
 
 1. Clone the repository:
+
